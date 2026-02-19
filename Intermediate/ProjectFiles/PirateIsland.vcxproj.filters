@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PirateIsland.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PirateIsland.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PirateIslandEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PirateIsland">
+      <UniqueIdentifier>{7968061C-D1A0-3AD7-A765-8EE90D793FF5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PirateIsland\MovableObject.cpp">
+      <Filter>Source\PirateIsland</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PirateIsland\MovableObject.h">
+      <Filter>Source\PirateIsland</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PirateIsland\PirateCharacter.cpp">
+      <Filter>Source\PirateIsland</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PirateIsland\PirateCharacter.h">
+      <Filter>Source\PirateIsland</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PirateIsland\PirateIsland.Build.cs">
+      <Filter>Source\PirateIsland</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PirateIsland\PirateIsland.cpp">
+      <Filter>Source\PirateIsland</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PirateIsland\PirateIsland.h">
+      <Filter>Source\PirateIsland</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PirateIsland\PirateShip.cpp">
+      <Filter>Source\PirateIsland</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PirateIsland\PirateShip.h">
+      <Filter>Source\PirateIsland</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PirateIsland",
+			"Path": "..\\Source\\PirateIsland.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PirateIslandEditor",
+			"Path": "..\\Source\\PirateIslandEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
