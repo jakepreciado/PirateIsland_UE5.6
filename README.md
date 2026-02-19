@@ -24,3 +24,9 @@ Free assets used in this project (ie. Pirates and Environment props) were FREE t
 * I would like to create hit mechanics and utilize the pirate swords, create health/damage, etc.
 * Be able to take control of the Pirate ship!
 * Add NPC movements and enemy CPU behaviors to make the game more interactive.
+
+# Game Demo
+
+[Demo video link](https://youtu.be/9lYnWE3oKrg)
+
+![PirateIsland_screenshot](https://github.com/user-attachments/assets/b30bc062-d6e4-41c4-b8b8-68184f81552e)
